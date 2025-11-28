@@ -8,9 +8,7 @@ This project implements Dynamic Mode Decomposition (DMD) for real-time backgroun
 
 Based on the paper:
 
-- **Dynamic Mode Decomposition for Real-Time Background/Foreground Separation in Video**
-  - J. Grosek and J. Nathan Kutz
-  - [ArXiv Link](https://arxiv.org/abs/1404.7592)
+- [**Dynamic Mode Decomposition for Real-Time Background/Foreground Separation in Video, J. Grosek and J. Nathan Kutz**](https://arxiv.org/abs/1404.7592)
 
 A few minor adjustments made by me.
 
